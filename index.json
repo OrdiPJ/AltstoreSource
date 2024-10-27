@@ -1,5 +1,7 @@
 {
     "name": "Paulin J",
+    "identifier": "fr.paulinj.ios-source",
+    "sourceURL": "https://ordipj.github.io/AltstoreSource/index.json",
     "subtitle": "Une source pour installer DHT Connect et toutes mes apps",
     "description": "Bienvenue sur ma source !\nIci, vous pouvez installer DHT Connect et toutes mes futures applications.",
     "website": "https://ordipj.github.io/AltstoreSource/",
