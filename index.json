@@ -22,6 +22,7 @@
                     "date": "2024-10-27",
                     "localizedDescription": "Première version",
                     "downloadURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.0/DHTConnect.ipa",
+                    "size": 7891,
                     "minOSVersion": "18.0"
                 }
             ],
@@ -30,7 +31,7 @@
                     "com.apple.security.application-groups"
                 ],
                 "privacy": {
-                    
+
                 }
             }
         }
