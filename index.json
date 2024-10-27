@@ -2,9 +2,37 @@
     "name": "Paulin J",
     "subtitle": "Une source pour installer DHT Connect et toutes mes apps",
     "description": "Bienvenue sur ma source !\nIci, vous pouvez installer DHT Connect et toutes mes futures applications.",
-    "iconURL": "",
-    "headerURL": "",
-    "website": "https://paulinj.fr",
+    "website": "https://ordipj.github.io/AltstoreSource/",
     "tintColor": "#00C4CC",
-    "apps": []
+    "apps": [
+        {
+            "name": "DHT Connect",
+            "bundleIdentifier": "fr.paulinj.DHTConnect",
+            "developerName": "Paulin J",
+            "subtitle": "Connectez vous à votre capteur DHT.",
+            "localizedDescription": "Avec DHT Connect, visualisez en direct la température et l'humidité mesurée par votre capteur DHT Bluetooth.",
+            "iconURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/icon.png",
+            "tintColor": "#00C4CC",
+            "category": "utilities",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "buildVersion": "1",
+                    "marketingVersion": "1.0.0",
+                    "date": "2024-10-27",
+                    "localizedDescription": "Première version",
+                    "downloadURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.0/DHTConnect.ipa",
+                    "minOSVersion": "18.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups"
+                ],
+                "privacy": {
+                    
+                }
+            }
+        }
+    ]
 }
