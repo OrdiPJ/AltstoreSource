@@ -28,6 +28,11 @@
                     "imageURL":"https://ordipj.github.io/AltstoreSource/apps/DHTConnect/screenshots/datascreen.png"
                 }
             ],
+            "screenshotURLs": [
+                "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/screenshots/homescreen.png",
+                "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/screenshots/pairingscreen.png",
+                "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/screenshots/datascreen.png"
+            ],
             "versions": [
                 {
                     "version": "1.0",
