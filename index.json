@@ -17,6 +17,17 @@
             "tintColor": "#00C4CC",
             "category": "utilities",
             "downloadURL":"https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.0/DHTConnect.ipa",
+            "screenshots": [
+                {
+                    "imageURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/screenshots/homescreen.png"
+                },
+                {
+                    "imageURL":"https://ordipj.github.io/AltstoreSource/apps/DHTConnect/screenshots/pairingscreen.png"
+                },
+                {
+                    "imageURL":"https://ordipj.github.io/AltstoreSource/apps/DHTConnect/screenshots/datascreen.png"
+                }
+            ],
             "versions": [
                 {
                     "version": "1.0",
@@ -25,7 +36,7 @@
                     "date": "2024-10-27",
                     "localizedDescription": "Première version",
                     "downloadURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.0/DHTConnect.ipa",
-                    "size": 7891,
+                    "size": 21600000,
                     "minOSVersion": "18.0"
                 }
             ],
