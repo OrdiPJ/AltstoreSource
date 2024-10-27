@@ -16,6 +16,7 @@
             "iconURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/icon.png",
             "tintColor": "#00C4CC",
             "category": "utilities",
+            "downloadURL":"https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.0/DHTConnect.ipa",
             "versions": [
                 {
                     "version": "1.0",
