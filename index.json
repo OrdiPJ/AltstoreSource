@@ -4,7 +4,6 @@
     "sourceURL": "https://ordipj.github.io/AltstoreSource/index.json",
     "subtitle": "Une source pour installer DHT Connect et toutes mes apps",
     "description": "Bienvenue sur ma source !\nIci, vous pouvez installer DHT Connect et toutes mes futures applications.",
-    "website": "https://ordipj.github.io/DHTConnectWebsite",
     "tintColor": "#00C4CC",
     "apps": [
         {
@@ -41,7 +40,7 @@
                     "date": "2024-11-17",
                     "localizedDescription": "Version 1.1 :\n) - Nous avons ajoutez deux widgets(Sur l'écran d'acceuil et sur l'écran vérouillé)\n - Nous avons ajouté un retour haptique lor de l'appuis sur les boutons",
                     "downloadURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.1/DHTConnect.ipa",
-                    "size": 21600000,
+                    "size": 2715497,
                     "minOSVersion": "18.0"
                 },
                 {
