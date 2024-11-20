@@ -15,7 +15,7 @@
             "iconURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/icon.png",
             "tintColor": "#00C4CC",
             "category": "utilities",
-            "downloadURL":"https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.1/DHTConnect.ipa",
+            "downloadURL":"https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.0/DHTConnect.ipa",
             "screenshots": [
                 {
                     "imageURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/screenshots/homescreen.png"
@@ -34,11 +34,21 @@
             ],
             "versions": [
                 {
+                    "version": "1.1.1",
+                    "buildVersion": "3",
+                    "marketingVersion": "1.1.1",
+                    "date": "2024-11-20",
+                    "localizedDescription": "Version 1.1.1 :\n - Nous avons ajoutez de nouveaux widgets pour supporter toutes les tailles.",
+                    "downloadURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.1.1/DHTConnect.ipa",
+                    "size": 2700246,
+                    "minOSVersion": "18.0"
+                },
+                {
                     "version": "1.1",
                     "buildVersion": "2",
                     "marketingVersion": "1.1.0",
                     "date": "2024-11-17",
-                    "localizedDescription": "Version 1.1 :\n) - Nous avons ajoutez deux widgets(Sur l'écran d'acceuil et sur l'écran vérouillé)\n - Nous avons ajouté un retour haptique lor de l'appuis sur les boutons",
+                    "localizedDescription": "Version 1.1 :\n) - Nous avons ajoutez deux widgets(Sur l'écran d'acceuil et sur l'écran vérouillé)\n - Nous avons ajouté un retour haptique lors de l'appuis sur les boutons",
                     "downloadURL": "https://ordipj.github.io/AltstoreSource/apps/DHTConnect/versions/1.1/DHTConnect.ipa",
                     "size": 2715497,
                     "minOSVersion": "18.0"
